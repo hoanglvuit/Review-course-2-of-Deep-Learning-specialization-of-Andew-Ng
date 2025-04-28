@@ -1,3 +1,23 @@
-### This is just a review of course 2 of the Deep Learning specialization of Andrew Ng 
-### The course contains things that can help you improve your Neural Network such as hyperparameter tuning, regularization, and optimization 
-![fact](https://github.com/hoanglvuit/Review-course-2-of-Deep-Learning-specialization-of-Andew-Ng/blob/f4fb1ed6af01eb2db8f34a54bd933cc2d8124e00/c2_DL.jpeg)
+# Deep Learning Specialization - Review Course 2
+
+## Giới thiệu
+
+Đây là nội dung được tóm tắt từ khóa học "Deep Learning Specialization" của Andrew Ng, cụ thể là Review Course 2. 
+
+## Giới thiệu về khóa học
+
+Khóa học "Deep Learning Specialization" của Andrew Ng, được giảng dạy trên Coursera, bao gồm nhiều phần học từ cơ bản đến nâng cao, giúp bạn hiểu rõ về các thuật toán học máy. Couse 2 là các kĩ thuật giúp huấn luyện mô hình tốt hơn: 
+
+- Bias và variance
+- Regularization
+- Dropout
+- Batch normalization
+- How to grid search
+- Momentum
+
+
+## Liên hệ
+
+Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với tôi qua email hoặc mở một issue trên GitHub.
+
+Chúc bạn học tốt !
